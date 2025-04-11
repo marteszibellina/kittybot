@@ -38,7 +38,7 @@ Kittybot — бот, который отправляет случайное из
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone 
+   git clone git@github.com:marteszibellina/kittybot.git
    ```
 
 2. Установите зависимости:
